@@ -56,8 +56,9 @@ the difference between NonRepeatable Read and Phantom Read :
 
 
 
-
-
+appendix
+------------------------------------------------------------------
+primus facere (first do)
 
 
 
